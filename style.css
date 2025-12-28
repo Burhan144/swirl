@@ -1,0 +1,23 @@
+body {
+  background-color: black;
+  color: rgb(236, 12, 12);               
+  padding: 14px 25px;       
+  text-decoration: none;            
+  text-align: center;
+}
+a {
+  background-color: yellowgreen;
+  color: white;
+  padding: 14px 25px;
+  text-decoration: none;
+  font-family: Arial;
+}
+
+a:hover {
+  background-color: rgb(233, 62, 32);
+}
+.bbh-bogle-regular {
+  font-family: "BBH Bogle", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
